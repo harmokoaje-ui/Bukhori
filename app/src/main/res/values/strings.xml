@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">OptixPro</string>
+
+    <!-- Permissions -->
+    <string name="perm_camera_title">Izin Kamera &amp; Mikrofon</string>
+    <string name="perm_camera_desc">OptixPro membutuhkan akses kamera untuk pemotretan jernih OIS/RAW dan mikrofon untuk perekaman audio jernih HD/4K/8K.</string>
+    <string name="perm_grant_button">Aktifkan Kamera</string>
+    <string name="perm_open_settings">Buka Pengaturan</string>
+
+    <!-- Modes -->
+    <string name="mode_night">MALAM</string>
+    <string name="mode_pro">PRO</string>
+    <string name="mode_photo">FOTO</string>
+    <string name="mode_video">VIDEO</string>
+    <string name="mode_cinematic">CINEMATIC</string>
+    <string name="mode_edit">EDIT</string>
+
+    <!-- HUD & Controls -->
+    <string name="cd_flash">Mode Flash</string>
+    <string name="cd_stabilization">Stabilisasi OIS &amp; EIS</string>
+    <string name="cd_raw">Mode RAW DNG</string>
+    <string name="cd_beauty">Filter Kecantikan Otomatis</string>
+    <string name="cd_styles">Efek Warna &amp; Gaya iPhone</string>
+    <string name="cd_settings">Pengaturan Kamera</string>
+    <string name="cd_shutter">Ambil Foto</string>
+    <string name="cd_record_start">Mulai Rekam Video</string>
+    <string name="cd_record_stop">Hentikan Perekaman</string>
+    <string name="cd_record_pause">Jeda Perekaman</string>
+    <string name="cd_record_resume">Lanjutkan Perekaman</string>
+    <string name="cd_flip_camera">Ganti Kamera Depan/Belakang</string>
+    <string name="cd_open_gallery">Buka Galeri &amp; Studio Edit</string>
+    <string name="cd_back">Kembali</string>
+    <string name="cd_pick_media">Pilih dari Galeri</string>
+    <string name="cd_export">Simpan ke Galeri</string>
+    <string name="cd_audio_controls">Kontrol Audio Manual</string>
+    <string name="cd_grid">Garis Bantu Grid</string>
+    <string name="cd_level">Waterpass Horizon</string>
+
+    <!-- Status Messages -->
+    <string name="saved_photo_gallery">Foto tersimpan ke Galeri (Pictures/OptixPro)</string>
+    <string name="saved_raw_gallery">Foto RAW + JPEG tersimpan ke Galeri</string>
+    <string name="saved_video_gallery">Video tersimpan ke Galeri (Movies/OptixPro)</string>
+    <string name="saved_trimmed_video">Video hasil potong tersimpan ke Galeri</string>
+    <string name="saved_edited_photo">Foto hasil edit tersimpan ke Galeri</string>
+</resources>

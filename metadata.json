@@ -1,0 +1,6 @@
+{
+  "name": "OptixPro",
+  "description": "Pro-grade Android camera with OIS/EIS stabilization, RAW DNG capture, manual exposure controls, low-light enhancement, auto beauty, iOS-inspired real-time styles, 4K/8K cinematic video, audio monitor, and built-in studio photo/video editor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
